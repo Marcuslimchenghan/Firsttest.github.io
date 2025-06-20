@@ -1,0 +1,19 @@
+body{
+background-color: khaki;
+font-size: 150%;
+}
+
+h1{
+padding: 10px;
+background: gold;
+width: fit-content;
+font-family: Times New Roman;
+font-size: 250%
+text-align:center;
+}
+
+#indigo{color:indigo}
+
+font.redbold{color:red; font-weight:bold;}
+
+.lightblue{color:#ADD8E6; font-weight:bold;}
